@@ -1,0 +1,9 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+#ballGame{
+    border:2px solid red;
+    box-sizing: border-box;
+}
